@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "이선복2"
+title                    : "이선복3"
 title_separator          : "-"
 name                     : &name "이선복"
 description              : &description "personal description"
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
