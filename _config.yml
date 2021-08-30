@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Sunbok Lee / Site Title"
+title                    : "이선복"
 title_separator          : "-"
 name                     : &name "Sunbok Lee"
 description              : &description "personal description"
