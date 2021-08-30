@@ -9,7 +9,7 @@
 locale                   : "ko_KR"
 title                    : "이선복"
 title_separator          : "-"
-name                     : &name "Sunbok Lee"
+name                     : &name "이선복"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
